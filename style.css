@@ -1,0 +1,44 @@
+* {
+    font-family: cursive;
+}
+.main {
+    height: 475px;
+    width: 820px;
+    border-style: solid;
+    border-color: black;
+}
+.cont{
+    width: 800px;
+    height: 100px;
+    background-color: aqua;
+    padding: 10px;
+}
+.icon{
+    display: flex;
+    position: fixed; top: 50px; left: 35px;
+    height: 150px;
+    width: 150px;
+}
+h1{
+    margin: 0px auto;
+    padding-top: 75px;
+    padding-left: 35px; 
+}
+h3{
+    margin: 0px auto;
+    padding-left: 35px;
+    padding-bottom: 15px;
+}
+#map{
+    height: 20px;
+    padding-right: 25px;
+}
+h4{
+    margin: 0px auto;
+    padding-left: 35px;
+}
+#cog{
+    height: 20px;
+    padding-left: 35px;
+    padding-right: 10px;
+}
